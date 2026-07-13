@@ -66,7 +66,9 @@ This data is collected from publicly accessible internet sources and is intended
 
 ## 📄 License
 
-This project and its data export are provided for **internal research and educational purposes only**. Redistribution or commercial use of the data is not permitted without explicit permission.
+This project and its data export are provided for **internal research and educational purposes only**. 
+
+Redistribution or commercial use of the data is not permitted without explicit permission.
 
 ---
 ```text
