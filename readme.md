@@ -14,7 +14,7 @@ This repository contains a **CSV export** of the database, providing a snapshot 
 
 | **File** | **Description** |
 |----------|-----------------|
-| `internet_insecure_db_export.csv` | Full database export in CSV format |
+| `InternetInsecureDatabase.csv.gz` | Full database export in CSV format |
 
 ---
 
